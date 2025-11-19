@@ -13,7 +13,7 @@ class Mushuk(Hayvon):
     def ovoz_ber(self):
         print("Miyav!")
 
-# Obyektlar yaratish va chaqirish
+# Obyektlar yaratish va chaqirish....
 it = It()
 it.ovoz_ber()
 
